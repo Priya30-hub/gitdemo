@@ -1,2 +1,1 @@
 print("PRIYA")
-print("chandu")
